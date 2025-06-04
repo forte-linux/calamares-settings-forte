@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Install Forte
+GenericName=Calamares Installer
+Exec=calamares-install-forte
+Comment=Calamares — Installer for Forte Live
+Keywords=calamares;system;install;forte;installer
+Icon=calamares
+Terminal=false
+Categories=Qt;System;
+StartupWMClass=calamares
+StartupNotify=True
