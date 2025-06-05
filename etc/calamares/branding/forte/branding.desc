@@ -7,25 +7,25 @@ windowSize: 800px,580px
 windowPlacement: center
 
 strings:
-    productName:         Debian GNU/Linux
-    shortProductName:    Debian
-    version:             13
-    shortVersion:        13
-    versionedName:       Debian 13
-    shortVersionedName:  Debian 13
-    bootloaderEntryName: Debian
-    productUrl:          https://debian.org
-    supportUrl:          https://www.debian.org/support
-    knownIssuesUrl:      https://bugs.debian.org
-    releaseNotesUrl:     https://www.debian.org/releases/bookworm/releasenotes
+    productName:         ForteOS
+    shortProductName:    Forte
+    version:             25.06
+    shortVersion:        25.06
+    versionedName:       Forte 25.06
+    shortVersionedName:  Forte 25.06
+    bootloaderEntryName: Forte
+    productUrl:          https://forteos.github.io
+    supportUrl:          https://github.com/orgs/forteos/discussions
+    knownIssuesUrl:      https://github.com/forteos/forte/issues
+    releaseNotesUrl:     https://github.com/forteos/forte/releases/tag/25.06-beta.1
     donateUrl:           https://www.debian.org
 
 sidebar: widget
 navigation: widget
 
 images:
-    productLogo:         "debian-logo.png"
-    productIcon:         "debian-logo.png"
+    productLogo:         "forte-logo.png"
+    productIcon:         "forte-logo.png"
     productWelcome:      "welcome.png"
 
 slideshow:               "show.qml"
