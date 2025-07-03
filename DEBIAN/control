@@ -1,0 +1,5 @@
+Package: calamares-settings-forte
+Version: 1.0
+Maintainer: ForteLinux
+Architecture: all
+Description: Calamares settings for ForteLinux
